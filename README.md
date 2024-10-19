@@ -1,7 +1,6 @@
-# Hi, I'm HINDHU GOLLURI
+# Hi, I'm HINDHU GOLLURI!  👋
 ## About Me
-Hey there! I'm Hindhu, a passionate graduate in Computer Science & Engineering student at Siddhartha institute of Engineering and TYechnology with a passion for coding and crafting innovative solutions.
-This README is my playground to showcase my journey, skills, and aspirations. Let's dive in!
+I’m a recent graduate in Computer Science & Engineering from Siddhartha Institute of Engineering and Technology, specializing in Artificial Intelligence, Machine Learning, and Full Stack Development. I’ve also completed a Full Stack Development course at J Spiders Institute, where I honed my skills in building comprehensive applications from front-end to back-end. I am passionate about coding and continuously exploring new technologies to solve challenging problems. As I grow as a full-stack developer, I’m excited to contribute to impactful projects that make a real difference.Let's dive in!
 ## Skills & Interests:
 * Programming Languages : Python, C, C++, HTML, CSS, JavaScript(basic knowledge)
 * Frameworks/Libraries : NumPy, Pandas, Sklearn, Django, Tkinter
